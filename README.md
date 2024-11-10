@@ -1,0 +1,1 @@
+The Marvel Movie App is a user-friendly application that allows users to explore Marvel movies, their details, and related information. It interacts with the Marvel API to fetch data about movies, characters, and other Marvel-related content.
